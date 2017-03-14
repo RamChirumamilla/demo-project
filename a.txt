@@ -1,2 +1,4 @@
 this is a.txt
 line 2
+line 3
+blah bla
